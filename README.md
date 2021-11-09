@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://br.freepik.com/vetores-gratis/desenvolvedores-de-software-trabalhando-na-codificacao-de-scripts-engenheiro-de-programacao-de-caracteres-em-php-python-javascript-e-outras-linguagens_14723866.htm" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://tenor.com/bvRpn.gif" width="30px">, I'm Frederico</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Angola.</h3>
