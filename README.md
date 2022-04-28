@@ -57,8 +57,6 @@
 <br/>
 <br/>
 
-<a  align="center" href="https://app.daily.dev/FCanoeira"><img src="https://api.daily.dev/devcards/09539b6633014548b059c158294d89e4.png?r=rce" width="400" alt="Frederico Canoeira's Dev Card"/></a>
-
 ## Connect with me:
 <p align="left">
 
